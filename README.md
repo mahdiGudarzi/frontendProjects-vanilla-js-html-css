@@ -2,11 +2,7 @@
 
 ## سطح مقدماتی
 
-#### تمرین : هشتگ ساز
 
-هدف تمرین :آشنایی با Dom
-
-[درمرورگرتان ببینید!](https://mahdigudarzi.github.io/hashtagComponent)|[source code](https://github.com/mahdigudarzi/hashtagComponent)
 
 #### تمرین:simple rich text editor
 
