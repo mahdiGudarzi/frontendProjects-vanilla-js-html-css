@@ -16,11 +16,6 @@
 
 [درمرورگرتان ببینید!](https://mahdigudarzi.github.io/matrix)|[source code](https://github.com/mahdigudarzi/matrix)
 
-#### تمرین:برنامه paint
-
-هدف تمرین :آشنایی با Canvas
-
-[درمرورگرتان ببینید!](https://mahdigudarzi.github.io/paintApp/)|[source code](https://github.com/mahdigudarzi/paintApp)
 
 #### تمرین:برنامه svg clock
 
@@ -28,5 +23,12 @@
 svg
 
 [درمرورگرتان ببینید!](https://mahdigudarzi.github.io/svg-clock/)|[source code](https://github.com/mahdigudarzi/svg-clock)
+
+#### تمرین:برنامه paint
+
+هدف تمرین :آشنایی با Canvas
+
+[درمرورگرتان ببینید!](https://mahdigudarzi.github.io/paintApp/)|[source code](https://github.com/mahdigudarzi/paintApp)
+
 
 ## سطح متوسط
