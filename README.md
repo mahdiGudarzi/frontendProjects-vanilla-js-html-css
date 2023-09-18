@@ -30,7 +30,7 @@ svg in html
 
 [درمرورگرتان ببینید!](https://mahdigudarzi.github.io/paintApp/)|[source code](https://github.com/mahdigudarzi/paintApp)
 
-تمرین :برنامه رزومه سازنده
+#### تمرین :برنامه رزومه سازنده
 
 [درمرورگرتان ببینید!](https://mahdigudarzi.github.io/resume-fornt-builder//)|[source code](https://github.com/mahdigudarzi/resume-fornt-builder)
 
