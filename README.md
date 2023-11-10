@@ -2,6 +2,8 @@
 
 این تمرینات نسبتا قدیمی هستن ممکن است api  استفاده شده در برنامه ها Deprecate شده باشند
 
+
+
 ## سطح مقدماتی
 
 
@@ -34,5 +36,20 @@ svg in html
 
 [درمرورگرتان ببینید!](https://mahdigudarzi.github.io/resume-fornt-builder//)|[source code](https://github.com/mahdigudarzi/resume-fornt-builder)
 
+#### تمرین : سعی در پیاده سازی پرامیس در سطح جی اس
 
-#
+[source code](https://github.com/mahdigudarzi/mypromise/tree/main) 
+
+#### تمرین: پیاده سازی شمارنده سن به عنوان اکستنشن برای مرورگر های کروم بیس
+
+[source code](https://github.com/mahdigudarzi/age)
+
+#### تمرین :اسکریپت یوتیوب برای tampermonkey
+
+[source code](https://github.com/mahdigudarzi/age)
+
+
+
+
+
+#####  همون جور که از اسم برمیاد پروژه ها اموزشین ممکنه رها شده باشند خوشحال میشم فورکشون کنید اگه دوست داشتید !
